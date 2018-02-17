@@ -1,2 +1,3 @@
 #!/bin/bash 
-yum install telnet
+sudo yum install telnet
+
